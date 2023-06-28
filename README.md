@@ -1,5 +1,7 @@
 # citi_bike_analysis
 
+<img width="628" alt="Screenshot 2023-06-27 at 11 08 31 PM" src="https://github.com/michelleowino/citi_bike_analysis/assets/119654958/187e2031-432b-4ef4-9384-d77c0f47875a">
+
 The objective of this project is to examine how the COVID-19 pandemic has affected the Citi Bike ride sharing app in New York City. Specifically, the project focuses on comparing the ridership data from April 2019 and April 2020, during the height of the pandemic. 
 
 The data for this project was obtained from the official Citi Bike website (https://citibikenyc.com/system-data). The data provides information on trip duration (seconds), start time and date, stop time and date, start station name, end station name, station ID, station Lat/Long, bike ID, user type (Customer = 24-hour pass or 3-day pass user; subscriber = Annual Member), gender (zero=unknown; 1=male; 2=female), year of birth.
