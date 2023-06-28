@@ -8,4 +8,5 @@ The data for this project was obtained from the official Citi Bike website (http
 
 The project analyzes the ridership data from April 2019 and April 2020 to establish a baseline for normal ridership patterns. This baseline is then compared to the ridership data from April 2020 to identify any significant changes in ridership. Additionally, the project examines any trends in trip duration and station usage patterns during the pandemic.
 
-The analysis can found here: https://public.tableau.com/app/profile/michelle.owino/viz/CitiBikeAnalysis_16836145731460/CitiBikeAnalysis
+## The analysis with findings can found here: 
+https://public.tableau.com/app/profile/michelle.owino/viz/CitiBikeAnalysis_16836145731460/CitiBikeAnalysis
